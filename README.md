@@ -12,14 +12,13 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Egypt%20🇪🇬-orange?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=darwiish1337&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=darwiish1337&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- ====================================== -->
-<!-- 👨‍💻 ABOUT ME SECTION -->
-<!-- ====================================== -->
+---
 
 <div align="center">
   
@@ -27,13 +26,9 @@
 
 </div>
 
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🚀 Who Am I?
 
 ```yaml
 name: Mohamed Darwish
@@ -55,6 +50,16 @@ status:
   working_on: [ Real-time Dashboards, ML Pipelines ]
   interested_in: [ AI, Business Intelligence, Analytics ]
   looking_for: [ Collaboration, New Opportunities ]
+  
+availability:
+  freelance: ✅ Available
+  full_time: ✅ Open
+  remote: ✅ Preferred
+  
+contact:
+  email: mdarwiish009@gmail.com
+  linkedin: mohamed-darwish1337
+  response_time: "< 24 hours"
 ```
 
 </td>
@@ -66,16 +71,11 @@ status:
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 </div>
 
-<br/>
-
-
 </td>
 </tr>
 </table>
 
 ---
-
-<div align="center">
 
 <div align="center">
 
@@ -274,9 +274,6 @@ When I'm not analyzing data, you'll find me:
 
 ---
 
-<div align="center">
-
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -307,7 +304,7 @@ When I'm not analyzing data, you'll find me:
       <h4>Databases</h4>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A048?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
     <td align="center" width="25%">
       <h4>Machine Learning</h4>
@@ -368,7 +365,7 @@ When I'm not analyzing data, you'll find me:
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://www.kaggle.com/darwiish1337">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
       </a>
@@ -377,7 +374,7 @@ When I'm not analyzing data, you'll find me:
       <br/><br/>
       <sub>Competitions • Datasets • Notebooks</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://leetcode.com/darwiish1337">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
       </a>
@@ -385,15 +382,6 @@ When I'm not analyzing data, you'll find me:
       <img src="https://img.shields.io/badge/Problems-100+-orange?style=flat-square&logo=leetcode" alt="LeetCode Stats" height="30"/>
       <br/><br/>
       <sub>Algorithm Challenges • Problem Solving</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/darwiish1337">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="40"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SQL-5%20⭐-brightgreen?style=flat-square&logo=hackerrank" alt="HackerRank" height="30"/>
-      <br/><br/>
-      <sub>SQL Expert • Python Proficiency</sub>
     </td>
   </tr>
 </table>
@@ -410,30 +398,22 @@ When I'm not analyzing data, you'll find me:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darwiish1337/darwiish1337/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darwiish1337/darwiish1337/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darwiish1337/darwiish1337/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub><i>Watch the snake eat my contributions! 🐍</i></sub>
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darwiish1337&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darwiish1337&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffaa00&currStreakLabel=667eea" />
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darwiish1337&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darwiish1337&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffaa00&currStreakLabel=667eea" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwiish1337&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darwiish1337&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
 
 </div>
 
@@ -442,7 +422,7 @@ When I'm not analyzing data, you'll find me:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darwiish1337&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darwiish1337&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -514,72 +494,6 @@ When I'm not analyzing data, you'll find me:
 ---
 
 <div align="center">
-
-### 💭 Words to Live By
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
-
-**"In God we trust. All others must bring data."**  
-*— W. Edwards Deming*
-
-<br/>
-
-**"Without data, you're just another person with an opinion."**  
-*— W. Edwards Deming*
-
-<br/>
-
-**"Data is the new oil, but analytics is the combustion engine."**  
-*— Unknown*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 2026 Goals Tracker
-
-<table>
-  <tr>
-    <th>Goal</th>
-    <th>Progress</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>🎓 Complete 5 ML Courses</td>
-    <td><img src="https://progress-bar.dev/40/?scale=100&title=2/5&width=120&color=667eea" /></td>
-    <td>🚧 In Progress</td>
-  </tr>
-  <tr>
-    <td>📝 Publish 20 Articles</td>
-    <td><img src="https://progress-bar.dev/15/?scale=100&title=3/20&width=120&color=667eea" /></td>
-    <td>🚧 In Progress</td>
-  </tr>
-  <tr>
-    <td>🚀 Launch 10 Projects</td>
-    <td><img src="https://progress-bar.dev/30/?scale=100&title=3/10&width=120&color=667eea" /></td>
-    <td>🚧 In Progress</td>
-  </tr>
-  <tr>
-    <td>🏆 Kaggle Expert Rank</td>
-    <td><img src="https://progress-bar.dev/50/?scale=100&title=Halfway&width=120&color=667eea" /></td>
-    <td>🎯 On Track</td>
-  </tr>
-  <tr>
-    <td>🤝 Mentor 50 Students</td>
-    <td><img src="https://progress-bar.dev/24/?scale=100&title=12/50&width=120&color=667eea" /></td>
-    <td>🚧 In Progress</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&fontSize=25&fontColor=fff&animation=twinkling&text=Thanks%20for%20Visiting!&fontAlignY=70" width="100%"/>
 
@@ -595,7 +509,7 @@ When I'm not analyzing data, you'll find me:
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/darwiish1337/count.svg)
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdarwiish1337&label=Visitors&countColor=%23667eea&style=flat-square&labelStyle=upper" />
 
 <br/>
 
