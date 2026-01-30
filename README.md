@@ -55,16 +55,6 @@ status:
   working_on: [ Real-time Dashboards, ML Pipelines ]
   interested_in: [ AI, Business Intelligence, Analytics ]
   looking_for: [ Collaboration, New Opportunities ]
-  
-availability:
-  freelance: ✅ Available
-  full_time: ✅ Open
-  remote: ✅ Preferred
-  
-contact:
-  email: mdarwiish009@gmail.com
-  linkedin: mohamed-darwish1337
-  response_time: "< 24 hours"
 ```
 
 </td>
@@ -78,27 +68,6 @@ contact:
 
 <br/>
 
-### 📈 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 💼 **Experience** | 2+ Years |
-| 🚀 **Projects** | 15+ Completed |
-| 🏆 **Certifications** | 10+ Earned |
-| ⭐ **GitHub Stars** | Growing Daily |
-| 📊 **Analysis Done** | 100+ Datasets |
-
-</div>
-
-### 💡 Fun Facts
-
-- 🌙 **Night Owl** - Peak productivity at 2 AM
-- ☕ **Coffee Powered** - 5 cups minimum/day
-- 📚 **Always Learning** - New skill every month
-- 🎯 **Data Obsessed** - Patterns everywhere!
-- 🎮 **Gamer** - Strategy games fan
 
 </td>
 </tr>
@@ -107,53 +76,6 @@ contact:
 ---
 
 <div align="center">
-
-### 🎯 What I'm Up To Right Now
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80" />
-      <br/><br/>
-      <h3>📚 Learning</h3>
-      <p>
-        • Advanced ML Algorithms<br/>
-        • Deep Learning (PyTorch)<br/>
-        • NLP & Text Analytics<br/>
-        • Computer Vision Basics<br/>
-        • MLOps & Deployment
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
-      <br/><br/>
-      <h3>💻 Working On</h3>
-      <p>
-        • Real-time Dashboards<br/>
-        • Predictive Models<br/>
-        • ETL Pipelines<br/>
-        • Automated Reports<br/>
-        • Data Quality Tools
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
-      <br/><br/>
-      <h3>🤝 Looking For</h3>
-      <p>
-        • Data Science Projects<br/>
-        • Open Source Contrib.<br/>
-        • Freelance Opportunities<br/>
-        • Mentorship Exchange<br/>
-        • Collaborative Research
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
 
@@ -354,22 +276,6 @@ When I'm not analyzing data, you'll find me:
 
 <div align="center">
 
-### 💬 Ask Me About
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database%20Design%20%26%20Optimization-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" />
-  <img src="https://img.shields.io/badge/Python-Pandas%20%26%20NumPy-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard%20Design-informational?style=for-the-badge&logo=powerbi&logoColor=white&color=F2C811" />
-  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-informational?style=for-the-badge&logo=tableau&logoColor=white&color=E97627" />
-  <img src="https://img.shields.io/badge/Excel-Advanced%20Functions-informational?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=217346" />
-  <img src="https://img.shields.io/badge/Statistics-Hypothesis%20Testing-informational?style=for-the-badge&logo=scipy&logoColor=white&color=8CAAE6" />
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn%20%26%20TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
-</p>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
